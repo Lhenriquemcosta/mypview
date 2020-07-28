@@ -14,6 +14,10 @@ function Footer() {
           Imersão React da Alura
         </a>
       </p>
+      <p>
+        Desenvolvido por {''}
+        <a href="https://github.com/Lhenriquemcosta"> Lucas Henrique</a>
+      </p>
     </FooterBase>
   );
 }
